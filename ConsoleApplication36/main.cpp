@@ -58,7 +58,8 @@ int main()
     file << mas[3][i] << "\n";
   file.close();
   cout << "LittleQuickSort: " << (float)(stop - start) / CLOCKS_PER_SEC << endl;
-  cout << "hey";
+  cout << "mom";
+  cout << "mom";
 
   system("pause");
   }
