@@ -60,6 +60,8 @@ int main()
   cout << "LittleQuickSort: " << (float)(stop - start) / CLOCKS_PER_SEC << endl;
   cout << "mom";
   cout << "mom";
+  cout << "mom";
+  cout << "mom";
 
   system("pause");
   }
